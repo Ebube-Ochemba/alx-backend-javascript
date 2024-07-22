@@ -34,3 +34,5 @@ export default function concatArrays(array1, array2, string) {}
 - [ ] [12-createReportObject.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/12-createReportObject.js): Afunction named `createReportObject` whose parameter, `employeesList`, is the return value of the previous function `createEmployeesObject`.
 
 > [package.json](./package.json): A manifest for the project dependencies. Provided by Alx.
+> [babel.config.js](./babel.config.js): A babel configuration file. Provided by Alx.
+> [eslintrc.js](./eslintrc.js): An eslint configuration file. Provided by Alx.
