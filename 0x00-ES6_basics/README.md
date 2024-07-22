@@ -10,10 +10,15 @@ I learnt about what ES6 is, the new features introduced in ES6, the difference b
 
 > Each file contains the solution to a task in the project.
 
-- [ ] [](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/):
-- [ ] [](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/):
-- [ ] [](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/):
-- [ ] [](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/):
+- [ ] [0-constants.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/0-constants.js): Modify the given functions.
+- [ ] [1-block-scoped.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/1-block-scoped.js): Given what you’ve read about `var` and `hoisting`, modify the variables inside the given function taskBlock.
+so thatthe variables aren’t overwritten inside the conditional block.
+- [ ] [2-arrow.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/2-arrow.js): Rewrite the given standard function to use ES6’s arrow syntax of the function `add` (it will be ananonymous function after)
+- [ ] [3-default-parameter.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/3-default-parameter.js): Condense the internals of the given function to 1 line - without changing the name of eachfunction/variable.
+- [ ] [4-rest-parameter.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/4-rest-parameter.js): Modify the following function to return the number of arguments passed to it using the rest parametersyntax
+```js
+export default function returnHowManyArguments() {}
+```
 - [ ] [5-spread-operator.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/5-spread-operator.js): Using spread syntax, concatenate 2 arrays and each character of a string by modifying the function below.Your function body should be one line long.
 ```js
 export default function concatArrays(array1, array2, string) {}
