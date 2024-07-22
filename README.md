@@ -13,10 +13,10 @@ In this repository, you will find a collection of projects and assignments that 
 
 
 ## Environment
-Languages: JavaScript
-OS: Ubuntu 22.04 LTS
-Compiler: Node.js
-Style guidelines: [semistandard](https://github.com/standard/semistandard)
+- Languages: JavaScript
+- OS: Ubuntu 22.04 LTS
+- Compiler: Node.js
+- Style guidelines: [semistandard](https://github.com/standard/semistandard)
 
 ## Credits
 
