@@ -8,7 +8,7 @@ In this repository, you will find a collection of projects and assignments that 
 
 ## List of Projects
 
-- [0x00. ES6](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x00-ES6_basics)
+- [0x00. ES6 Basics](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x00-ES6_basics)
 - [](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/)
 
 
