@@ -31,7 +31,7 @@ export default function concatArrays(array1, array2, string) {}
 - [x] [11-createEmployeesObject.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/11-createEmployeesObject.js): A function named `createEmployeesObject` that will receive two arguments:
   - `departmentName` (String)
   - `employees` (Array of Strings)
-- [x] [12-createReportObject.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/12-createReportObject.js): Afunction named `createReportObject` whose parameter, `employeesList`, is the return value of the previous function `createEmployeesObject`.
+- [ ] [12-createReportObject.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/12-createReportObject.js): Afunction named `createReportObject` whose parameter, `employeesList`, is the return value of the previous function `createEmployeesObject`.
 - [ ] [](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/):
 
 > [package.json](./package.json): A manifest for the project dependencies. Provided by Alx.
