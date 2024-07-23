@@ -40,4 +40,4 @@ export default function concatArrays(array1, array2, string) {}
 
 > [eslintrc.js](./eslintrc.js): An eslint configuration file. Provided by Alx.
 
-- [__tests](./__tests__): The jest test files for the project.
+- [__tests__](./__tests__): The jest test files for the project.
