@@ -31,13 +31,14 @@ export default function concatArrays(array1, array2, string) {}
 - [x] [11-createEmployeesObject.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/11-createEmployeesObject.js): A function named `createEmployeesObject` that will receive two arguments:
   - `departmentName` (String)
   - `employees` (Array of Strings)
-- [ ] [12-createReportObject.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/12-createReportObject.js): A function named `createReportObject` whose parameter, `employeesList`, is the return value of the previous function `createEmployeesObject`.
-- [ ] [](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/):
+- [x] [12-createReportObject.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/12-createReportObject.js): A function named `createReportObject` whose parameter, `employeesList`, is the return value of the previous function `createEmployeesObject`.
+- [x] [100-createIteratorObject.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/100-createIteratorObject.js): A function named `createIteratorObject`, that will take into argument a report Object created with the previous function `createReportObject`.
+- [x] [101-iterateThroughObject.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x00-ES6_basics/101-iterateThroughObject.js): A  function named `iterateThroughObject`. The function’s parameter `reportWithIterator` is the return value from `createIteratorObject`.
 
 > [package.json](./package.json): A manifest for the project dependencies. Provided by Alx.
 
 > [babel.config.js](./babel.config.js): A babel configuration file. Provided by Alx.
 
-> [eslintrc.js](./eslintrc.js): An eslint configuration file. Provided by Alx.
+> [.eslintrc.js](./.eslintrc.js): An eslint configuration file. Provided by Alx.
 
 - [__tests__](./__tests__): The jest test files for the project.
