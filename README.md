@@ -10,6 +10,7 @@ In this repository, you will find a collection of projects and assignments that 
 
 - [0x00. ES6 Basic](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x00-ES6_basic)
 - [0x01. ES6 Promises](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x01-ES6_promise)
+- [0x02. ES6 classes](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x02-ES6_classes)
 - [](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/)
 
 
