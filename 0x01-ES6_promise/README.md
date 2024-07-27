@@ -54,4 +54,4 @@ That returns a resolved promise with this object:
 
 > [.eslintrc.js](./.eslintrc.js): An eslint configuration file. Provided by Alx.
 
-- [utils.js](./utils.js): The jest test filesUtility functions for the project.
+> [utils.js](./utils.js): The jest test filesUtility functions for the project.
