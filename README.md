@@ -12,6 +12,7 @@ In this repository, you will find a collection of projects and assignments that 
 - [0x01. ES6 Promises](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x01-ES6_promise)
 - [0x02. ES6 classes](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x02-ES6_classes)
 - [0x03. ES6 data manipulation](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x03-ES6_data_manipulation)
+- [0x04. Typescript](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript)
 - [](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/)
 
 
