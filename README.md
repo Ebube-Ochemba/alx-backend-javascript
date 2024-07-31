@@ -17,10 +17,10 @@ In this repository, you will find a collection of projects and assignments that 
 
 
 ## Environment
-- Languages: JavaScript
+- Languages: JavaScript, TypeScript
 - OS: Ubuntu 22.04 LTS
-- Compiler: Node.js
-- Style guidelines: [semistandard](https://github.com/standard/semistandard)
+- Compiler: Nodejs v12.11.0 || Babel v7.6.0
+- Style guidelines: [ESLint](https://eslint.org/) || [Jest](https://jestjs.io/)
 
 ## Credits
 
