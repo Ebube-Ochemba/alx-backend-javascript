@@ -8,8 +8,6 @@ I learnt about basic types in Typescript, iInterfaces, Classes, and functions, h
 
 ## Files
 
-> Each file contains the solution to a task in the project.
+> Each folder contains the solution to a task in the project.
 
 - [ ] []():
-
-> [test_files](): A folder of test files. Provided by Alx.
