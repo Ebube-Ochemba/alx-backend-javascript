@@ -32,14 +32,17 @@ I learnt about basic types in Typescript, iInterfaces, Classes, and functions, h
   - The class has a method named `displayName`. It returns the firstName of the student
   - The constructor of the class should be described through an Interface
   - The class should be described through an Interface
-- [x] [task #5](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_2): "Advanced types Part 1"
+- [x] [task #5](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_2): "Advanced types Part I"
   - Create the `DirectorInterface` interface with the 3 expected methods
   - Create the `TeacherInterface` interface with the 3 expected methods
   - Create a `class Director` that will implement `DirectorInterface`
   - Create a class `Teacher` that will implement `TeacherInterface`
   - Create a function `createEmployee` with the specified requirements
-- [ ] [task #6](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_):
-- [ ] [task #7](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_):
-- [ ] [task #8](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_):
-- [ ] [task #9](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_):
-- [ ] [task #10](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_):
+- [x] [task #6](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_): "Advanced types Part II"
+  - Write a function `isDirector`
+  - Write a function `employee`
+- [ ] [task #7](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_2):
+- [ ] [task #8](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_3):
+- [ ] [task #9](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_4):
+- [ ] [task #10](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_4):
+- [ ] [task #11](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_5):
