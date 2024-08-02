@@ -26,5 +26,10 @@ I learnt about basic types in Typescript, iInterfaces, Classes, and functions, h
   - It returns the first letter of the firstName and the full lastName
   - Example: `printTeacher("John", "Doe") -> J. Doe`
   - Write an interface for the function named `printTeacherFunction`.
-- [ ] [task_4](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_4):
+- [ ] [task_4](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_4): Write a Class named `StudentClass`:
+  - The constructor accepts `firstName(string)` and `lastName(string)` arguments
+  - The class has a method named `workOnHomework` that return the string `Currently working`
+  - The class has a method named `displayName`. It returns the firstName of the student
+  - The constructor of the class should be described through an Interface
+  - The class should be described through an Interface
 - [ ] [task_5](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_5):
