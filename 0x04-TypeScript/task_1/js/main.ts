@@ -10,6 +10,10 @@ interface Teacher {
   [key: string]: any; // Allow any additional properties
 }
 
+interface Directors extends Teacher {
+  numberOfReports: number; // Required property specific to Directors
+}
+
 // Create three teachers
 const teacher3: Teacher = {
   firstName: 'John',
@@ -19,4 +23,14 @@ const teacher3: Teacher = {
   contract: false,
 };
 
+// Create one director
+const director1: Directors = {
+  firstName: 'John',
+  lastName: 'Doe',
+  location: 'London',
+  fullTimeEmployee: true,
+  numberOfReports: 17,
+};
+
 console.log(teacher3);
+console.log(director1);
