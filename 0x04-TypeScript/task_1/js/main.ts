@@ -10,8 +10,19 @@ interface Teacher {
   [key: string]: any; // Allow any additional properties
 }
 
+// Define the director interface
 interface Directors extends Teacher {
   numberOfReports: number; // Required property specific to Directors
+}
+
+// Implement the printTeacher function
+const printTeacher: PrintTeacherFunction = (firstName, lastName) => {
+  return `${firstName.charAt(0)}. ${lastName}`;
+};
+
+// Define the printTeacherFunction interface
+interface PrintTeacherFunction {
+  (firstName: string, lastName: string): string;
 }
 
 // Create three teachers
@@ -32,5 +43,7 @@ const director1: Directors = {
   numberOfReports: 17,
 };
 
+// log the output
 console.log(teacher3);
 console.log(director1);
+console.log(printTeacher("John", "Doe"));
