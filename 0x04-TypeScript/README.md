@@ -21,6 +21,10 @@ I learnt about basic types in Typescript, iInterfaces, Classes, and functions, h
   - `location(string)` this attribute should always be defined
   - Add the possibility to add any attribute to the Object like contract(boolean) without specifying the name of the attribute
 - [x] [task #2](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_1): Write an interface named `Directors` that extends `Teacher`. It requires an attribute named `numberOfReports(number)`.
-- [ ] [task_3](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_3):
+- [ ] [task #3](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_3): Write a function `printTeacher`:
+  - It accepts two arguments `firstName` and `lastName`
+  - It returns the first letter of the firstName and the full lastName
+  - Example: `printTeacher("John", "Doe") -> J. Doe`
+  - Write an interface for the function named `printTeacherFunction`.
 - [ ] [task_4](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_4):
 - [ ] [task_5](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_5):
