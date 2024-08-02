@@ -21,15 +21,20 @@ I learnt about basic types in Typescript, iInterfaces, Classes, and functions, h
   - `location(string)` this attribute should always be defined
   - Add the possibility to add any attribute to the Object like contract(boolean) without specifying the name of the attribute
 - [x] [task #2](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_1): Write an interface named `Directors` that extends `Teacher`. It requires an attribute named `numberOfReports(number)`.
-- [ ] [task #3](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_1): Write a function `printTeacher`:
+- [x] [task #3](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_1): Write a function `printTeacher`:
   - It accepts two arguments `firstName` and `lastName`
   - It returns the first letter of the firstName and the full lastName
   - Example: `printTeacher("John", "Doe") -> J. Doe`
   - Write an interface for the function named `printTeacherFunction`.
-- [ ] [task_4](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_1): Write a Class named `StudentClass`:
+- [x] [task #4](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_1): Write a Class named `StudentClass`:
   - The constructor accepts `firstName(string)` and `lastName(string)` arguments
   - The class has a method named `workOnHomework` that return the string `Currently working`
   - The class has a method named `displayName`. It returns the firstName of the student
   - The constructor of the class should be described through an Interface
   - The class should be described through an Interface
-- [ ] [task_5](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_5):
+- [x] [task #5](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_2): "Advanced types Part 1"
+- [ ] [task #6](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_):
+- [ ] [task #7](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_):
+- [ ] [task #8](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_):
+- [ ] [task #9](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_):
+- [ ] [task #10](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_):
