@@ -50,7 +50,12 @@ function executeWork(employee) {
         return employee.workTeacherTasks();
     }
 }
+function teachClass(todayClass) {
+    return "Teaching ".concat(todayClass);
+}
 // Example usage
 console.log(executeWork(createEmployee(200)));
 console.log(executeWork(createEmployee(1000)));
 console.log(executeWork(createEmployee('$500')));
+console.log(teachClass('Math'));
+console.log(teachClass('History'));
