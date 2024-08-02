@@ -10,7 +10,10 @@ I learnt about basic types in Typescript, iInterfaces, Classes, and functions, h
 
 > Each folder contains the solution to a task in the project.
 
-- [ ] [task_0](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_0):
+- [x] [task_0](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_0): Write an interface named Student that accepts the following elements: `firstName(string)`, `lastName(string)`, `age(number)`, and `location(string)`
+  - Create two students, and create an array named `studentsList` containing the two variables
+  - Using Vanilla Javascript, render a table and for each elements in the array, append a new row to the table
+  - Each row should contain the first name of the student and the location
 - [ ] [task_1](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_1):
 - [ ] [task_2](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_2):
 - [ ] [task_3](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_3):
