@@ -44,7 +44,7 @@ I learnt about basic types in Typescript, Interfaces, Classes, and functions, ho
 - [x] [task #7](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_2): "Advanced types Part III"
   - Write a String literal type named `Subjects` allowing a variable to have the value `Math` or `History` only.
   - Write a function named `teachClass`
-- [ ] [task #8](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_3):
+- [x] [task #8](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_3):
 - [ ] [task #9](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_4):
 - [ ] [task #10](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_4):
 - [ ] [task #11](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript/task_5):
