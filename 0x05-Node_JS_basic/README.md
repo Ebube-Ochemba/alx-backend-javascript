@@ -14,7 +14,7 @@ I learnt about how to run javascript using NodeJS, use NodeJS modules, use speci
 - [x] [1-stdin.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/1-stdin.js): A program named `1-stdin.js` that will be executed through command line.
 - [x] [2-read_file.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/2-read_file.js): A function named `countStudents` that reads and formats data from a database pased as an argument.
     - `Reading a file synchronously`
-- [ ] [3-read_file.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/3-read_file.js): A function named `countStudents` that reads and formats data from a database pased as an argument.
+- [x] [3-read_file_async.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/3-read_file_async.js): A function named `countStudents` that reads and formats data from a database pased as an argument.
     - `Reading a file asynchronously`
 - [ ] [](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/):
 - [ ] [](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/):
