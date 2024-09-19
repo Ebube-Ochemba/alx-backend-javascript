@@ -17,8 +17,11 @@ I learnt about how to run javascript using NodeJS, use NodeJS modules, use speci
 - [x] [3-read_file_async.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/3-read_file_async.js): A function named `countStudents` that reads and formats data from a database pased as an argument.
     - `Reading a file asynchronously`
 - [x] [4-http.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/4-http.js): A small HTTP server using the `http` module.
-- [ ] [5-http.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/5-http.js): A small HTTP server using the `http` module, with some routing.
-- [ ] [](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/):
+- [x] [5-http.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/5-http.js): A small HTTP server using the `http` module, with some routing.
+    - [helper.js](./helper.js): Helper function; same as [3-read_file_async.js](./3-read_file_async.js), but returns concatenated output instead of logging to console.
+- [ ] [6-http_express.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/6-http_express.js): A small HTTP server using `Express` module.
+- [ ] [7-http_express.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/7-http_express.js): A small HTTP server using the `http` module, with some routing.
+    - [helper.js](./helper.js): Helper function; same as [3-read_file_async.js](./3-read_file_async.js), but returns concatenated output instead of logging to console.
 - [ ] [](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x05-Node_JS_basic/):
 
 > [package.json](./package.json): A manifest for the project dependencies. Provided by Alx.
