@@ -1,6 +1,6 @@
 const http = require('http');
 const url = require('url'); // Import the URL module to parse request URLs
-const countStudents = require('./5-helper'); // Import the async countStudents function
+const countStudents = require('./helper'); // Import the async countStudents function
 
 const PORT = 1245;
 
