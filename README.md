@@ -14,6 +14,7 @@ In this repository, you will find a collection of projects and assignments that 
 - [0x03. ES6 data manipulation](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x03-ES6_data_manipulation)
 - [0x04. Typescript](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x04-TypeScript)
 - [0x05. NodeJS Basics](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x05-Node_JS_basic)
+- [0x06. Unittests in JS](https://github.com/Ebube-Ochemba/alx-backend-javascript/tree/main/0x06-unittests_in_js)
 
 
 ## Environment
