@@ -10,10 +10,5 @@ I learnt about how to use Mocha to write a test suite, ow to use different asser
 
 > Each file contains the solution to a task in the project.
 
-- [ ] [](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x06-unittests_in_js/): 
-
-> [package.json](./package.json): A manifest for the project dependencies. Provided by Alx.
-
-> [babel.config.js](./babel.config.js): A babel configuration file. Provided by Alx.
-
-> [.eslintrc.js](./.eslintrc.js): An eslint configuration file. Provided by Alx.
+- [ ] [1-calcul.test.js](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x06-unittests_in_js/1-calcul.test.js): Basic test with Mocha and Node assertion library for [1-calcul.js](./0-calcul.js).
+- [ ] [](https://github.com/Ebube-Ochemba/alx-backend-javascript/blob/main/0x06-unittests_in_js/):
